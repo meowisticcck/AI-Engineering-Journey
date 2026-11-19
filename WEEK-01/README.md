@@ -1,24 +1,10 @@
-# Week 01 - Python Fundamentals
+Week 1: Python Core
 
-## Learning Objectives
-- Python basics
-- Variables and data types
-- Operators
-- Conditional statements
-- Loops
-- Functions
+By the end of the week, you can:
 
-## Daily Progress
-- [ ] Day 01
-- [ ] Day 02
-- [ ] Day 03
-- [ ] Day 04
-- [ ] Day 05
-- [ ] Day 06
-- [ ] Day 07
+Use variables, data types, strings, conditionals and loops correctly
+Choose between lists, tuples, dicts and sets for a given problem
+Write functions and list comprehensions
+Solve basic problems (FizzBuzz, word counts, prime check) without copying solutions
 
-## Projects
-Coming soon!
-
-## Weekly Review
-Coming soon!
+Deliverable: Number-guessing game on GitHub, plus 3 LeetCode Easy problems.
